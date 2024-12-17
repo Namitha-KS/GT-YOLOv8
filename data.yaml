@@ -1,0 +1,6 @@
+path: D:/GreenBuilding/datasets/trainingdata
+train: train/images
+val: val/images
+names:
+  0: tree
+  1: landscape-feature
